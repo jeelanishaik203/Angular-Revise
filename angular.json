@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "Angular-Revise": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-Revise"
+    }
+  },
+  "defaultProject": "Angular-Revise",
+  "cli": {
+    "analytics": "646d998f-67be-43b9-8d5c-f1f1abf4666a"
+  }
 }
